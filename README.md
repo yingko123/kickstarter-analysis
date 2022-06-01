@@ -1,7 +1,7 @@
 # Kickstarting with Excel
-  Analysis of fundraising campaigns with a database of over 4,000 historical Kickstarter campaign records
+
 ## Overview of Project
-  
+Analysis of fundraising campaigns with a database of over 4,000 historical Kickstarter campaign records
 ### Purpose
 
 ## Analysis and Challenges
