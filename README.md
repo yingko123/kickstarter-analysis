@@ -17,13 +17,3 @@ Most fundraising campaigns for Theater/Plays have a budget goal of less than $15
 ## Results
 - It will be interesting to look at the ratio of success vs. failed campaigns by year and by size.  The data may show success rate can be impacted by economic conditions.
 - We can also do some analysis on whether "staff pick" makes a difference in campaign outcomes
-
-
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
