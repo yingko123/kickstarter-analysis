@@ -3,7 +3,7 @@
 ## Overview of Project
 Analysis of fundraising campaigns with a database of over 4,000 historical Kickstarter campaign records
 ### Purpose
-
+Conduct analysis to determine possible factors contribute to the success or failure of fundraising campaigns on the Kickstarter platform
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
