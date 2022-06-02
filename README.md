@@ -1,16 +1,20 @@
 # Kickstarting with Excel
 ## Overview of Project
-The purpose of this analysis is to determine possible factors contribute to the success or failure of fundraising campaigns on the Kickstarter platform.  The data is from a collection of over 4,000 historical Kickstarter campaign records from 2009 to 2017.
+The purpose of this analysis is to determine possible factors that contribute to the success or failure of fundraising campaigns on the Kickstarter platform.  The data is from a collection of over 4,000 historical Kickstarter campaign records from 2009 to 2017.
 
-Below is the link to the Excel file that contain all of the data used in the "Kickstarter" tab
+Below is the link to the Excel file that contains all of the data used in the "Kickstarter" tab
+
 [Kickstarter_Challenge_Excel_File](Kickstarter_Challenge.xlsx)
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-For this analysis, I use the pivot table to look the fundraising outcomes for all theater projects.  In particular, I want to see if campaign launch month will have correlation to success or failure to the outcomes.  I created below chart from the data
+For this analysis, I use the pivot table to look at the fundraising outcomes for all theater projects in the dataset.  In particular, I want to see if the campaign launch month will have a correlation to the success or failure of the outcomes.  I created the below chart from the data to help visualize the data.
 ![Theater Outcomes by Launch Date](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+For this analysis, I like to see if different fundraising goals may contribute to the success or failure of campaigns for all projects in the plays subcategory.  To do that, I separated data into different buckets by fundraising goal dollar amount and list out the corresponding outcomes by counts and percentages.  I created the below chart from the data to help visualize the data
+![Outcomes_vs_Goals_chart](Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
 
 ## Results
