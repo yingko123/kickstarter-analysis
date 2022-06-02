@@ -15,15 +15,15 @@ For this analysis, I use the pivot table to look at the fundraising outcomes for
 ### Analysis of Outcomes Based on Goals
 For this analysis, I like to see if different fundraising goals may contribute to the success or failure of campaigns for all projects in the plays subcategory.  To do that, I separated data into different buckets by fundraising goal dollar amount and list out the corresponding outcomes by counts and percentages.  I created the below chart from the data to help visualize the data.
 
-![Outcomes_vs_Goals_chart](Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals_chart](Outcomes_vs_Goals.png =x200)
 
 ### Challenges and Difficulties Encountered
 
 ## Results
-* Two conclusions I can draw from the Theater Outcomes by Launch Date are
+- Two conclusions I can draw from the Theater Outcomes by Launch Date are
     1. Fundraising campaigns for theater projects tend to have a higher success rate if launched during the months of May, June, and July. 
     1. Campaigns launched during December tend to have a lower success rate
-* Conclusion from the Outcomes based on Goals is that most fundraising campaigns for Theater/Plays have a budget goal of less than $15,000.  For these lower budget plays, projects with a fundraising goal of less than $5,000 have a high rate of success (over 70% success rate).
+- Conclusion from the Outcomes based on Goals is that most fundraising campaigns for Theater/Plays have a budget goal of less than $15,000.  For these lower budget plays, projects with a fundraising goal of less than $5,000 have a high rate of success (over 70% success rate).
 - Some limitations of this dataset to note for the two analysis are:
     1. For the analysis of outcomes based on launch date, data are aggregated from a spend of nine years.  Although the aggregated data seems to indicate the Summer months have a better success rate, when looking at individual years, the pattern is not as clear.  Thus the aggregated data may have less predictive power than one may expect 
     1. sample size for higher budget Theater/Plays projects are limited, therefore the historic success rate for these higher budget campaigns are less useful in predicting future success rate for a similar type of projects
