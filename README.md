@@ -4,8 +4,8 @@ The purpose of this analysis is to determine possible factors contribute to the 
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-For this analysis, we use the pivot table to look the fundraising outcomes for all theater projects.  In particular, we want to see if campaign launch month will have correlation to success or failure to the outcome.  We created below chart from the data
-
+For this analysis, I use the pivot table to look the fundraising outcomes for all theater projects.  In particular, I want to see if campaign launch month will have correlation to success or failure to the outcomes.  I created below chart from the data
+![Theater Outcomes by Launch Date](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 ### Challenges and Difficulties Encountered
