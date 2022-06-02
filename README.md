@@ -9,10 +9,12 @@ Below is the link to the Excel file that contains all of the data used in the "K
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 For this analysis, I use the pivot table to look at the fundraising outcomes for all theater projects in the dataset.  In particular, I want to see if the campaign launch month will have a correlation to the success or failure of the outcomes.  I created the below chart from the data to help visualize the data.
+
 ![Theater Outcomes by Launch Date](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-For this analysis, I like to see if different fundraising goals may contribute to the success or failure of campaigns for all projects in the plays subcategory.  To do that, I separated data into different buckets by fundraising goal dollar amount and list out the corresponding outcomes by counts and percentages.  I created the below chart from the data to help visualize the data
+For this analysis, I like to see if different fundraising goals may contribute to the success or failure of campaigns for all projects in the plays subcategory.  To do that, I separated data into different buckets by fundraising goal dollar amount and list out the corresponding outcomes by counts and percentages.  I created the below chart from the data to help visualize the data.
+
 ![Outcomes_vs_Goals_chart](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
