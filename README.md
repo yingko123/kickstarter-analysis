@@ -15,7 +15,7 @@ For this analysis, I use the pivot table to look at the fundraising outcomes for
 ### Analysis of Outcomes Based on Goals
 For this analysis, I like to see if different fundraising goals may contribute to the success or failure of campaigns for all projects in the plays subcategory.  To do that, I separated data into different buckets by fundraising goal dollar amount and list out the corresponding outcomes by counts and percentages.  I created the below chart from the data to help visualize the data.
 
-<img src="Outcomes_vs_Goals.png" alt="Outcomes_vs_Goals_chart" title="Outcomes_vs_Goals_chart" width="100px">
+<img src="Outcomes_vs_Goals.png" alt="Outcomes_vs_Goals_chart" title="Outcomes_vs_Goals_chart" width="500px">
 ![Outcomes_vs_Goals_chart](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
