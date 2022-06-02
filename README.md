@@ -17,14 +17,14 @@ For this analysis, I like to see if different fundraising goals may contribute t
 
 <img src="Outcomes_vs_Goals.png" alt="Outcomes_vs_Goals_chart" title="Outcomes_vs_Goals_chart" width="800px">
 
-![Outcomes_vs_Goals_chart](Outcomes_vs_Goals.png)
-
 ### Challenges and Difficulties Encountered
+- It took some time to familiarize myself with the dataset so I can understand why the certain analysis was asked to be conducted.  
+- Columns with non-categorizable text such as “name” and “blurb” may contain interesting information but are difficult to be analyzed within Excel.  
 
 ## Results
 - Two conclusions I can draw from the Theater Outcomes by Launch Date are
-    1. Fundraising campaigns for theater projects tend to have a higher success rate if launched during the months of May, June, and July. 
-    1. Campaigns launched during December tend to have a lower success rate
+    - Fundraising campaigns for theater projects tend to have a higher success rate if launched during the months of May, June, and July. 
+    - Campaigns launched during December tend to have a lower success rate
 - Conclusion from the Outcomes based on Goals is that most fundraising campaigns for Theater/Plays have a budget goal of less than $15,000.  For these lower budget plays, projects with a fundraising goal of less than $5,000 have a high rate of success (over 70% success rate).
 - Some limitations of this dataset to note for the two analysis are:
     1. For the analysis of outcomes based on launch date, data are aggregated from a spend of nine years.  Although the aggregated data seems to indicate the Summer months have a better success rate, when looking at individual years, the pattern is not as clear.  Thus the aggregated data may have less predictive power than one may expect 
