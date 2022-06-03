@@ -1,10 +1,12 @@
 # Kickstarting with Excel
+
 ## Overview of Project
 The purpose of this analysis is to determine possible factors that contribute to the success or failure of fundraising campaigns on the Kickstarter platform.  The data is from a collection of over 4,000 historical Kickstarter campaign records from 2009 to 2017.
 
 Below is the link to the Excel file that contains all of the data used in the "Kickstarter" tab
 
 [Kickstarter_Challenge_Excel_File](Kickstarter_Challenge.xlsx)
+
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
